@@ -1,0 +1,67 @@
+
+.caja1{
+    margin: 0px auto;
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 150px;
+    margin: 13px;
+}
+
+.caja2{
+    margin: 0px auto;
+    background-color: rgb(44, 161, 108);
+    width: 1000px;
+    height: 250px;
+    margin: 13px;
+}
+
+.caja3{
+    margin: 0px auto;
+    background-color: rgb(43, 28, 154);
+    width: 500px;
+    height: 300px;
+    margin: 13px;
+}
+
+.caja4{
+    background-color: rgb(159, 69, 194);
+    width: 500px;
+    height: 300px;
+    flex-basis: auto;
+    margin: 13px;
+}
+
+.caja5{
+    margin: 0px auto;
+    background-color: rgb(203, 123, 19);
+    width: 1000px;
+    height: 250px;
+}
+
+.caja6{
+    margin: 0px auto;
+    background-color: rgb(9, 215, 205);
+    width: 500px;
+    height: 300px;
+    margin: 13px;
+}
+
+.caja7{
+    margin: 0px auto;
+    background-color: rgb(1, 11, 11);
+    width: 500px;
+    height: 300px;
+    margin: 13px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin: 13px;
+
+}
+ 
+#center{
+    justify-content: center;
+}
